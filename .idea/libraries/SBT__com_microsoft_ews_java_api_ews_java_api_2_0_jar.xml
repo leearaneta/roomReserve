@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.microsoft.ews-java-api:ews-java-api:2.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.microsoft.ews-java-api/ews-java-api/jars/ews-java-api-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.microsoft.ews-java-api/ews-java-api/srcs/ews-java-api-2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
