@@ -2,106 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d058fd93-2588-4e03-b248-cf9d18d7a7ba" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$01973ed9aac76a41e1fe$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$01973ed9aac76a41e1fe$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$01973ed9aac76a41e1fe.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$01973ed9aac76a41e1fe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5e793cf553bd334f4777$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5e793cf553bd334f4777$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5e793cf553bd334f4777$$anonfun$$sbtdef$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5e793cf553bd334f4777$$anonfun$$sbtdef$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5e793cf553bd334f4777$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5e793cf553bd334f4777.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5e793cf553bd334f4777.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7e09b8fcd91f84437e81$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7e09b8fcd91f84437e81$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7e09b8fcd91f84437e81.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$7e09b8fcd91f84437e81.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8a5ca4a91634aadf2b20$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8a5ca4a91634aadf2b20.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$8a5ca4a91634aadf2b20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$985fd8f8460b320fe3c5$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$985fd8f8460b320fe3c5$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$985fd8f8460b320fe3c5.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$985fd8f8460b320fe3c5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e6fededc0eea8f835191$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e6fededc0eea8f835191$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e6fededc0eea8f835191.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e6fededc0eea8f835191.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/RoomReserve$delayedInit$body.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/AppConfig$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/AppConfig$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/AppConfig.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/AppConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/DeviceManager$$anonfun$receive$4.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/DeviceManager$$anonfun$receive$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/DeviceManager.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/DeviceManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/RoomReserve$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/RoomReserve$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.12/classes/RoomReserve.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/RoomReserve.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/roomreserve-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/roomreserve-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/roomreserve.iml" afterPath="$PROJECT_DIR$/.idea/modules/roomreserve.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/roomreserve-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/roomreserve-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/roomreserve-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/roomreserve-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-roomreserve-build-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/RoomReserve.scala" afterPath="$PROJECT_DIR$/src/main/scala/RoomReserve.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve$sources_2.12-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/room-reserve-room-reserve_2.12-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/room-reserve/room-reserve$sources_2.12/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/room-reserve/room-reserve$sources_2.12/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/room-reserve/room-reserve$sources_2.12/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/room-reserve/room-reserve$sources_2.12/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/room-reserve/room-reserve_2.12/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/room-reserve/room-reserve_2.12/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/room-reserve/room-reserve_2.12/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/room-reserve/room-reserve_2.12/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Flash.scala" afterPath="$PROJECT_DIR$/src/main/scala/Flash.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -139,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RoomReserve.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RoomReserve.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/RoomReserve.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -154,13 +55,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Flash.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Flash.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Flash.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding>
-                <element signature="e#17#35#0" expanded="true" />
+                <element signature="e#29#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -214,9 +115,9 @@
         <option value="$PROJECT_DIR$/src/main/scala/YAMLConfig.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Config.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/AppConfig.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Flash.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/RoomReserve.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Flash.scala" />
       </list>
     </option>
   </component>
@@ -591,16 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Flash.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#17#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/RoomReserve.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -610,6 +501,16 @@
             <element signature="e#1975#2009#0" expanded="true" />
             <element signature="e#3280#3304#0" expanded="true" />
             <element signature="e#4153#4213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Flash.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#29#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
