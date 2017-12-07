@@ -5,7 +5,12 @@ version := "1.0"
 scalaVersion := "2.12.2"
 
 lazy val akkaVersion = "2.5.3"
+
 lazy val flash = taskKey[Unit]("Flash each configured device with roomReserve binary.")
+fullRunTask(flash, Compile, "Flash")
+
+lazy val roomReserve = taskKey[Unit]("Run RoomReserve app!")
+fullRunTask(roomReserve, Compile, "RoomReserve")
 
 libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-actor" % akkaVersion,

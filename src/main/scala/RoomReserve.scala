@@ -134,8 +134,6 @@ class DeviceManager(config: DeviceConfig) extends Actor {
   implicit val materializer: ActorMaterializer = ActorMaterializer()
   implicit val dispatcher: ExecutionContext = context.system.dispatcher
 
-//  s"particle flash ${config.deviceID} ../particle_binaries/roomReserve.bin" !
-
   val wsClient = StandaloneAhcWSClient()
   val url = s"https://api.particle.io/v1/devices/${config.deviceID}/ipAddress?access_token=$accessToken"
   val f: Future[String] = wsClient.url(url).get().map { response => (response.body[JsValue] \ "result").as[String]}
@@ -160,18 +158,21 @@ class DeviceManager(config: DeviceConfig) extends Actor {
   }
 }
 
-object RoomReserve extends App {
-  import scala.io.StdIn
-  val system: ActorSystem = ActorSystem("RoomReserve")
+object RoomReserve {
+  def main(args: Array[String]) {
+    import scala.io.StdIn
+    val system: ActorSystem = ActorSystem("RoomReserve")
 
-  try {
-    def createDeviceManager(x: DeviceConfig): Unit = system.actorOf(Props(new DeviceManager(x)))
-    deviceList.foreach(createDeviceManager)
-    println(">>> Press ENTER to exit <<<")
-    StdIn.readLine()
+    try {
+      def createDeviceManager(x: DeviceConfig): Unit = system.actorOf(Props(new DeviceManager(x)))
 
-  } finally {
-    system.terminate()
+      deviceList.foreach(createDeviceManager)
+      println(">>> Press ENTER to exit <<<")
+      StdIn.readLine()
 
+    } finally {
+      system.terminate()
+
+    }
   }
 }
