@@ -107,3 +107,12 @@ roomReserve
 exit
 roomReserve
 exit
+console
+exit
+compile
+run
+roomReserve
+run
+flash
+run
+exit

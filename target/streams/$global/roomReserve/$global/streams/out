@@ -42,12 +42,12 @@
 [0m[[0mdebug[0m] [0m	/Users/lee/.ivy2/cache/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/bundles/jackson-dataformat-yaml-2.9.2.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/lee/.ivy2/cache/org.yaml/snakeyaml/bundles/snakeyaml-1.18.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/lee/.ivy2/cache/org.slf4j/slf4j-simple/jars/slf4j-simple-1.6.4.jar[0m
-[0m[[0mdebug[0m] [0mWaiting for thread run-main-5 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread run-main-5 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread RoomReserve-akka.actor.default-dispatcher-5 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread RoomReserve-akka.actor.default-dispatcher-5 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread RoomReserve-akka.actor.default-dispatcher-2 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread RoomReserve-akka.actor.default-dispatcher-2 exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-7[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-3[0m
 [0m[[0mdebug[0m] [0mSandboxed run complete..[0m
 [0m[[0mdebug[0m] [0mExited with code 0[0m

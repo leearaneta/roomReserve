@@ -14,7 +14,6 @@ import core.service.folder.CalendarFolder
 import credential.WebCredentials
 import search.CalendarView
 
-
 object AppointmentLoader {
   type AppointmentList = java.util.ArrayList[Appointment]
   case object Load
@@ -78,7 +77,12 @@ class AppointmentTracker extends Actor {
 
   def receive = {
     case LoadedAppointments(a) if a.size != this.currentAppointments.size || !compareAppointmentLists(a, this.currentAppointments) => {
-      val formattedString = a.asScala.map(extractAppointmentDetails).mkString("|") + "|"
+      val totalComponents: Int = 24
+      val appointmentString = a.asScala.map(extractAppointmentDetails).mkString("|") + "|"
+      // add dummy components
+      val dummyComponents: Int = totalComponents - appointmentString.count(_ == '|')
+      val dummyString = " |" * dummyComponents
+      val formattedString = appointmentString + dummyString
       println(formattedString)
       context.actorSelection("../TCPClient") ! ByteString(formattedString)
       this.currentAppointments = a
