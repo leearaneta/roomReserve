@@ -1,0 +1,6 @@
+/.idea
+/sbt-dist
+/target
+/project
+sbt
+sbt.bat
