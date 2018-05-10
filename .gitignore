@@ -1,6 +1,6 @@
-/.idea
-/sbt-dist
-/target
-/project
+.idea/
+sbt-dist/
+target/
+project/
 sbt
 sbt.bat
